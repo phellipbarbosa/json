@@ -1,14 +1,14 @@
 [
   {
-        "key": "ALMOXARIFADO",
+        "key": "ALMX SAUDE",
         "latitude": -16.451037807551305,
         "longitude": -54.65078639597431,
-        "name": "ALMOXARIFADO"
+        "name": "ALMX SAUDE"
   },
   {
-        "key": "SECRETARIA",
+        "key": "ONU_SECSAUDE",
         "latitude": -16.453405579093765,
         "longitude": -54.643799987987144,
-        "name": "SECRETARIA"
+        "name": "ONU_SECSAUDE"
   }
 ]
