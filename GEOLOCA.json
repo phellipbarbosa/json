@@ -11,4 +11,82 @@
         "longitude": -54.643799987987144,
         "name": "ONU_SECSAUDE"
   }
+    {
+        "key": "CAPS AD",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CAPS AD"
+  }
+   {
+        "key": "CAPS INFANTIL",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CAPS INFANTIL"
+  }
+   {
+        "key": "CEADAS",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CEADAS"
+  }
+   {
+        "key": "CEDERO",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CEDERO"
+  }
+   {
+        "key": "CEADAS",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CEADAS"
+  }
+   {
+        "key": "CENTRAL DE REGULACAO",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CENTRAL DE REGULACAO"
+  }
+   {
+        "key": "CEO ITAMARATY",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CEO ITAMARATY"
+  }
+   {
+        "key": "CEO AMPARO",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CEO AMPARO"
+  }
+  {
+        "key": "CERARO",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CERARO"
+  }
+  {
+        "key": "CS - AMPARO",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CS - AMPARO"
+  }
+  {
+        "key": "CS - COHAB",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CS - COHAB"
+  }
+  {
+        "key": "CS - CONJ. SAO JOSEB",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CS - CONJ. SAO JOSE"
+  }
+  {
+        "key": "ESF ALFREDO DE CASTRO I",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "ESF ALFREDO DE CASTRO I"
+  }
 ]
