@@ -11,29 +11,5 @@
         "longitude": -54.643799987987144,
         "name": "ONU_SECSAUDE"
   }
-    {
-        "key": "CAPS AD",
-        "latitude": -16.457137565231,
-        "longitude": -54.654936590393646,
-        "name": "CAPS AD"
-  }
-   {
-        "key": "CAPS INFANTIL",
-        "latitude": -16.475670798178463,
-        "longitude": -54.62558743230279,
-        "name": "CAPS INFANTIL"
-  }
-   {
-        "key": "CEADAS",
-        "latitude": -16.452460959766306,
-        "longitude": -54.64331025104494,
-        "name": "CEADAS"
-  }
-   {
-        "key": "CEDERO",
-        "latitude": -16.45965973374386,
-        "longitude": -54.64810708997024,
-        "name": "CEDERO"
-  }
-
+  
 ]
