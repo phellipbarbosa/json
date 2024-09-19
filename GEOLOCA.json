@@ -76,7 +76,12 @@
         "longitude": -54.61958883692775,
         "name": "CS - COHAB"
   },
- 
+  {
+        "key": "CS - CONJ. SAO JOSE",
+        "latitude": -16.453405579093765,
+        "longitude": -54.643799987987144,
+        "name": "CS - CONJ. SAO JOSE"
+  },
   {
         "key": "ESF ALFREDO DE CASTRO I",
         "latitude": -16.454292741416296,
@@ -89,6 +94,6 @@
         "latitude": -16.488103696289954,
         "longitude": -54.58652191791253,
         "name": "ESF ANDRE MAGGI"
-  },
+  }
        
 ]
