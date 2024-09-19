@@ -46,9 +46,10 @@
   },
    {
         "key": "CEO ITAMARATY",
-        "latitude": -16.453405579093765,
-        "longitude": -54.643799987987144,
+        "latitude": -16.4344376305992,
+        "longitude": -54.63227275906479,
         "name": "CEO ITAMARATY"
+     5, 
   },
    {
         "key": "CEO AMPARO",
@@ -58,23 +59,23 @@
   },
   {
         "key": "CERARO",
-        "latitude": -16.453405579093765,
-        "longitude": -54.643799987987144,
+        "latitude": -16.418268079034807,
+        "longitude": -54.60653598466048,
         "name": "CERARO"
   },
-  {
+    {
         "key": "CS - AMPARO",
-        "latitude": -16.453405579093765,
-        "longitude": -54.643799987987144,
+        "latitude": -16.462137799284534 ,
+        "longitude": -54.61140747566089,
         "name": "CS - AMPARO"
   },
-  {
+    {
         "key": "CS - COHAB",
-        "latitude": -16.453405579093765,
-        "longitude": -54.643799987987144,
+        "latitude": -16.47910891049496,
+        "longitude": -54.61958883692775,
         "name": "CS - COHAB"
   },
-  {
+    {
         "key": "CS - CONJ. SAO JOSE",
         "latitude": -16.453405579093765,
         "longitude": -54.643799987987144,
