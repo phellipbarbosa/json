@@ -131,6 +131,24 @@
         "latitude": -16.46480081325323,
         "longitude": -54.60636577638009,
         "name": "ESF CIDADE ALTA"
+  },
+   {
+        "key": "ESF CIDADE DE DEUS",
+        "latitude": -16.476041238266077,
+        "longitude": -54.583724130117425,
+        "name": "ESF CIDADE DE DEUS"
+  },
+  {
+        "key": "ESF DOM OSORIO",
+        "latitude": -16.43674515481594,
+        "longitude": -54.65990585125211,
+        "name": "ESF DOM OSORIO"
+  },
+     {
+        "key": "ESF EUROPA",
+        "latitude": -16.471862371106905,
+        "longitude": -54.57676710448439,
+        "name": "ESF EUROPA"
   }
-      
+  
 ]
