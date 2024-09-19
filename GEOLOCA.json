@@ -149,6 +149,12 @@
         "latitude": -16.471862371106905,
         "longitude": -54.57676710448439,
         "name": "ESF EUROPA"
+  },
+     {
+        "key": "ESF VILA VERDE",
+        "latitude": -16.431440990950108,
+        "longitude": -54.62989774580589,
+        "name": "ESF VILA VERDE"
   }
   
 ]
