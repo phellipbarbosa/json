@@ -306,5 +306,11 @@
         "latitude": -16.451473069625706,
         "longitude": -54.62755369900248,
         "name": "ESF SANTA CLARA"
+  },
+  {
+        "key": "ESF CASCATA",
+        "latitude": -16.392819255304484,
+        "longitude": -54.37209160857741,
+        "name": "ESF CASCATA"
   }
 ]
