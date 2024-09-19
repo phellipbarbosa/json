@@ -155,6 +155,42 @@
         "latitude": -16.431440990950108,
         "longitude": -54.62989774580589,
         "name": "ESF VILA VERDE"
+  },
+   {
+        "key": "ESF ITAMARATY",
+        "latitude": -16.434346190898754,
+        "longitude":  -54.63264096451278,
+        "name": "ESF ITAMARATY"
+  },
+  {
+        "key": "ESF ITAPUA",
+        "latitude": -16.439924984196338,
+        "longitude": -54.61413516474651,
+        "name": "ESF ITAPUA"
+  },
+  {
+        "key": "ESF JAMBRAPI",
+        "latitude": -16.46438721278416,
+        "longitude": -54.61962123474215,
+        "name": "ESF JAMBRAPI"
+  },
+  {
+        "key": "ESF JARDIM IPIRANGA",
+        "latitude": -16.444730558119215,
+        "longitude": -54.61153896075958,
+        "name": "ESF JARDIM IPIRANGA"
+  },
+   {
+        "key": "ESF JARDIM LIBERDADE",
+        "latitude": -16.435485209383565, 
+        "longitude": -54.652153544357674,
+        "name": "ESF JARDIM LIBERDADE"
+  },
+  {
+        "key": "ESF JARDIM PINDORAMA",
+        "latitude": -16.45445638272156,
+        "longitude": -54.63805303121533,
+        "name": "ESF JARDIM PINDORAMA"
   }
-  
+
 ]
