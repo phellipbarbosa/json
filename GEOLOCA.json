@@ -295,4 +295,16 @@
         "longitude": -54.616237447258264,
         "name": "ESF PQ DAS ROSAS MARGARIDA"
   }
+  {
+        "key": "ESF PQ UNIVERSITARIO",
+        "latitude": -16.457567633935746,
+        "longitude": -54.66902258556045,
+        "name": "ESF PQ UNIVERSITARIO"
+  },
+  {
+        "key": "ESF SANTA CLARA",
+        "latitude": -16.451473069625706,
+        "longitude": -54.62755369900248,
+        "name": "ESF SANTA CLARA"
+  }
 ]
