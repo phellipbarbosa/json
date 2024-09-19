@@ -89,6 +89,24 @@
         "latitude": -16.488103696289954,
         "longitude": -54.58652191791253,
         "name": "ESF ANDRE MAGGI"
-  }
-       
+  },
+   {
+        "key": "ESF ASSUNCAO",
+        "latitude": -16.452832177170635,
+        "longitude": -54.622629835474264,
+        "name": "ESF ASSUNCAO"
+  },
+{
+        "key": "ESF BELO HORIZONTE",
+        "latitude": -16.45776961511635,
+        "longitude": -54.6559094903608,
+        "name": "ESF BELO HORIZONTE"
+  },
+ {
+        "key": "ESF BOM PASTOR",
+        "latitude": -16.464101985214956,
+        "longitude": -54.62640791357231,
+        "name": "ESF BOM PASTOR"
+  },
+   
 ]
