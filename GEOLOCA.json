@@ -107,6 +107,30 @@
         "latitude": -16.464105887639025,
         "longitude": -54.62637291716613,
         "name": "ESF BOM PASTOR"
-  }
-   
+  },
+   {
+        "key": "ESF CAIC",
+        "latitude": -16.442685249656698,
+        "longitude": -54.63555526271642,
+        "name": "ESF CAIC"
+  },
+  {
+        "key": "ESF CANAA",
+        "latitude": -16.47675882486398,
+        "longitude": -54.64392126779861,
+        "name": "ESF CANAA"
+  },
+  {
+        "key": "ESF CASALDALIGA",
+        "latitude": -16.470540901610388,
+        "longitude": -54.56247901079849,
+        "name": "ESF CASALDALIGA"
+  },
+  {
+        "key": "ESF CIDADE ALTA",
+        "latitude": -16.46480081325323,
+        "longitude": -54.60636577638009,
+        "name": "ESF CIDADE ALTA"
+  },
+      
 ]
