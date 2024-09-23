@@ -5,10 +5,305 @@
         "longitude": -54.650733586288,
         "name": "ALMX SAUDE"
   },
+  
   {
         "key": "ONU_SECSAUDE",
         "latitude": -16.453405579093765,
         "longitude": -54.643799987987144,
         "name": "ONU_SECSAUDE"
-  }
+  },
+  
+  {
+        "key": "CAPS AD",
+        "latitude": -16.457148715024022,
+        "longitude": -54.6549340373243,
+        "name": "CAPS AD"
+    
+  },
+   {
+        "key": "CAPS INFANTIL",
+        "latitude": -16.45747962321824,
+        "longitude": -54.65527220213019,
+        "name": "CAPS INFANTIL"
+     
+  },
+  
+   {
+        "key": "CEADAS",
+        "latitude": -16.452460959766306,
+        "longitude": -54.64331025104494,
+        "name": "CEADAS"
+  },
+  
+   {
+        "key": "CEDERO",
+        "latitude": -16.45965973374386,
+        "longitude": -54.64810708997024,
+        "name": "CEDERO"
+  },  
+ {
+        "key": "CENTRAL DE REGULACAO",
+        "latitude": -16.458195237895445,
+        "longitude": -54.63245356134972,
+        "name": "CENTRAL DE REGULACAO"
+     },
+   {
+        "key": "CEO ITAMARATY",
+        "latitude": -16.43442461345598,
+        "longitude": -54.632221921023294,
+        "name": "CEO ITAMARATY"
+       },
+   {
+        "key": "CEO AMPARO",
+        "latitude": -16.462246186451107,
+        "longitude": -54.611697357683724,
+        "name": "CEO AMPARO"
+        },
+   {
+        "key": "CERARO",
+        "latitude": -16.418268079034807,
+        "longitude": -54.60653598466048,
+        "name": "CERARO"
+        },
+    {
+        "key": "CS - AMPARO",
+        "latitude": -16.462137799284534,
+        "longitude": -54.61140747566089,
+        "name": "CS - AMPARO"
+  },
+    {
+        "key": "CS - COHAB",
+        "latitude": -16.47910891049496,
+        "longitude": -54.61958883692775,
+        "name": "CS - COHAB"
+      },
+  {
+        "key": "ESF ALFREDO DE CASTRO I",
+        "latitude": -16.454292741416296,
+        "longitude": -54.55135569030781,
+        "name": "ESF ALFREDO DE CASTRO I"
+      },
+  {
+        "key": "ESF ANDRE MAGGI",
+        "latitude": -16.488103696289954,
+        "longitude": -54.58652191791253,
+        "name": "ESF ANDRE MAGGI"
+      },
+   {
+        "key": "ESF ASSUNCAO",
+        "latitude": -16.452832177170635,
+        "longitude": -54.622629835474264,
+        "name": "ESF ASSUNCAO"
+      },
+{
+        "key": "ESF BELO HORIZONTE",
+        "latitude": -16.45776961511635,
+        "longitude": -54.6559094903608,
+        "name": "ESF BELO HORIZONTE"
+      },
+ {
+        "key": "ESF BOM PASTOR",
+        "latitude": -16.464105887639025,
+        "longitude": -54.62637291716613,
+        "name": "ESF BOM PASTOR"
+      },
+   {
+        "key": "ESF CAIC",
+        "latitude": -16.442685249656698,
+        "longitude": -54.63555526271642,
+        "name": "ESF CAIC"
+      },
+  {
+        "key": "ESF CANAA",
+        "latitude": -16.47675882486398,
+        "longitude": -54.64392126779861,
+        "name": "ESF CANAA"
+  },
+  {
+        "key": "ESF CASALDALIGA",
+        "latitude": -16.470540901610388,
+        "longitude": -54.56247901079849,
+        "name": "ESF CASALDALIGA"
+      },
+  {
+        "key": "ESF CIDADE ALTA",
+        "latitude": -16.46480081325323,
+        "longitude": -54.60636577638009,
+        "name": "ESF CIDADE ALTA"
+      },
+   {
+        "key": "ESF CIDADE DE DEUS",
+        "latitude": -16.476041238266077,
+        "longitude": -54.583724130117425,
+        "name": "ESF CIDADE DE DEUS"
+      },
+  {
+        "key": "ESF DOM OSORIO",
+        "latitude": -16.43674515481594,
+        "longitude": -54.65990585125211,
+        "name": "ESF DOM OSORIO"
+      },
+     {
+        "key": "ESF EUROPA",
+        "latitude": -16.471862371106905,
+        "longitude": -54.57676710448439,
+        "name": "ESF EUROPA"
+      },
+ {
+        "key": "ESF VILA VERDE",
+        "latitude": -16.431440990950108,
+        "longitude": -54.62989774580589,
+        "name": "ESF VILA VERDE"
+      },
+ {
+        "key": "ESF ITAMARATY",
+        "latitude": -16.434346190898754,
+        "longitude":  -54.63264096451278,
+        "name": "ESF ITAMARATY"
+      },
+  {
+        "key": "ESF ITAPUA",
+        "latitude": -16.439924984196338,
+        "longitude": -54.61413516474651,
+        "name": "ESF ITAPUA"
+       },
+  {
+        "key": "ESF JAMBRAPI",
+        "latitude": -16.46438721278416,
+        "longitude": -54.61962123474215,
+        "name": "ESF JAMBRAPI"
+      },
+  {
+        "key": "ESF JARDIM IPIRANGA",
+        "latitude": -16.444730558119215,
+        "longitude": -54.61153896075958,
+        "name": "ESF JARDIM IPIRANGA"
+      },
+   {
+        "key": "ESF JARDIM LIBERDADE",
+        "latitude": -16.435485209383565, 
+        "longitude": -54.652153544357674,
+        "name": "ESF JARDIM LIBERDADE"
+      },
+  {
+        "key": "ESF JARDIM PINDORAMA",
+        "latitude": -16.45445638272156,
+        "longitude": -54.63805303121533,
+        "name": "ESF JARDIM PINDORAMA"
+      },
+   {
+        "key": "ESF JARDIM PRIMAVERA",
+        "latitude": -16.446377447659337,
+        "longitude": -54.615758332601885,
+        "name": "ESF JARDIM PRIMAVERA"
+      },
+  {
+        "key": "ESF JOAO DE BARRO",
+        "latitude": -16.439125297803866,
+        "longitude": -54.648375587628536,
+        "name": "ESF JOAO DE BARRO"
+      },
+  {
+        "key": "ESF LUZ DYARA",
+        "latitude": -16.445280811758664,
+        "longitude": -54.62417130110796,
+        "name": "ESF LUZ DYARA"
+      },
+  {
+        "key": "ESF MAMED",
+        "latitude": -16.48039403295206,
+        "longitude": -54.65368723392415,
+        "name": "ESF MAMED"
+      },
+  {
+        "key": "ESF MARECHAL RONDON",
+        "latitude": -16.430102339099538,
+        "longitude": -54.65205303335041,
+        "name": "ESF MARECHAL RONDON"
+      },
+   {
+        "key": "ESF MARIA AMELIA",
+        "latitude": -16.484899982464245,
+        "longitude": -54.685444938420126,
+        "name": "ESF MARIA AMELIA"
+      },
+  {
+        "key": "ESF MATHIAS NEVES",
+        "latitude": -16.4255987295053,
+        "longitude": -54.682833437214356,
+        "name": "ESF MATHIAS NEVES"
+      },
+  {
+        "key": "ESF MONTE LIBANO",
+        "latitude": -16.443652860048864,
+        "longitude": -54.651007084608544,
+        "name": "ESF MONTE LIBANO"
+      },
+  {
+        "key": "ESF MORUMBI",
+        "latitude": -16.476063272341836,
+        "longitude": -54.65765667249709,
+        "name": "ESF MORUMBI"
+      },
+  {
+        "key": "ESF PADRE MIGUEL",
+        "latitude": -16.44921750395505,
+        "longitude": -54.60355607113751,
+        "name": "ESF PADRE MIGUEL"
+      },
+   {
+        "key": "ESF PADRE RODOLFO",
+        "latitude": -16.433399832884298,
+        "longitude": -54.61771785834817,
+        "name": "ESF PADRE RODOLFO"
+      },
+  {
+        "key": "ESF PAINERAS",
+        "latitude": -16.46102366245083,
+        "longitude": -54.663206561396606,
+        "name": "ESF PAINERAS"
+
+      },
+  {
+        "key": "ESF PARQUE INDUSTRIAL",
+        "latitude": -16.464410262088585,
+        "longitude": -54.67759640372673,
+        "name": "ESF PARQUE INDUSTRIAL"
+      },
+  {
+        "key": "ESF PARQUE SAO JORGE",
+        "latitude": -16.484075134033432,
+        "longitude": -54.58769773393279,
+        "name": "ESF PARQUE SAO JORGE"
+      },
+  {
+        "key": "ESF PAULISTA",
+        "latitude": -16.432037915848237,
+        "longitude": -54.651372812121075,
+        "name": "ESF PAULISTA"
+  },
+  {
+        "key": "ESF PQ DAS ROSAS MARGARIDA",
+        "latitude": -16.46825448017242,
+        "longitude": -54.616237447258264,
+        "name": "ESF PQ DAS ROSAS MARGARIDA"
+      },
+  {
+        "key": "ESF PQ UNIVERSITARIO",
+        "latitude": -16.457567633935746,
+        "longitude": -54.66902258556045,
+        "name": "ESF PQ UNIVERSITARIO"
+      },
+  {
+        "key": "ESF SANTA CLARA",
+        "latitude": -16.451473069625706,
+        "longitude": -54.62755369900248,
+        "name": "ESF SANTA CLARA"
+      },
+  {
+        "key": "ESF CASCATA",
+        "latitude": -16.392819255304484,
+        "longitude": -54.37209160857741,
+        "name": "ESF CASCATA"
+      }
 ]
