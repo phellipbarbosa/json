@@ -1,0 +1,37 @@
+#!/bin/bash
+
+ZBX_API="http://SEU_ZABBIX/zabbix/api_jsonrpc.php"
+USER="apiuser"
+PASS="apipassword"
+
+AUTH=$(curl -s -X POST -H 'Content-Type: application/json' \
+ -d '{"jsonrpc":"2.0","method":"user.login","params":{"user":"'"$USER"'","password":"'"$PASS"'"}, "id":1,"auth":null}' \
+ $ZBX_API | jq -r '.result')
+
+get_status() {
+  local HOST="$1"
+  local ITEM="$2"
+  curl -s -X POST -H 'Content-Type: application/json' \
+  -d '{
+    "jsonrpc": "2.0",
+    "method": "item.get",
+    "params": {
+      "output": ["lastvalue"],
+      "host": "'"$HOST"'",
+      "search": {"key_": "'"$ITEM"'"},
+      "sortfield": "name"
+    },
+    "auth": "'"$AUTH"'",
+    "id": 1
+  }' $ZBX_API | jq -r '.result[0].lastvalue'
+}
+
+echo "["
+
+echo "  {\"estado\": \"MG\", \"latitude\": -19.8157, \"longitude\": -43.9542, \"status\": $(get_status 'Mapas Sefaz MG' 'web.test.rspcode[Monitoramento Web - Sefaz MG,CTeConsultaV4]')},"
+echo "  {\"estado\": \"SP\", \"latitude\": -23.533773, \"longitude\": -46.625290, \"status\": $(get_status 'Mapas Sefaz SP' 'web.test.rspcode[Monitoramento Web - Sefaz SP,CTeConsultaV4]')},"
+echo "  {\"estado\": \"PR\", \"latitude\": -25.441105, \"longitude\": -49.276855, \"status\": $(get_status 'Mapas Sefaz PR' 'web.test.rspcode[Monitoramento Web - Sefaz PR,CTeConsultaV4]')},"
+echo "  {\"estado\": \"RS\", \"latitude\": -30.033056, \"longitude\": -51.230000, \"status\": $(get_status 'Mapas Sefaz RS' 'web.test.rspcode[Monitoramento Web - Sefaz RS,CTeConsultaV4]')},"
+echo "  {\"estado\": \"MS\", \"latitude\": -20.4435, \"longitude\": -54.6478, \"status\": $(get_status 'Mapas Sefaz MS' 'web.test.rspcode[Monitoramento Web - Sefaz MS,CTeConsultaV4]')},"
+echo "  {\"estado\": \"MT\", \"latitude\": -15.5989, \"longitude\": -56.0949, \"status\": $(get_status 'Mapas Sefaz MT' 'web.test.rspcode[Monitoramento Web - Sefaz MT,CTeConsultaV4]')}"
+echo "]"
