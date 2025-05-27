@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "sigla": "MG", "nome": "Minas Gerais" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [ /* coordenadas simplificadas do MG aqui */ ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "sigla": "SP", "nome": "São Paulo" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [ /* coordenadas simplificadas do SP aqui */ ]
+      }
+    }
+    // Adicione os outros estados do mesmo jeito
+  ]
+}
